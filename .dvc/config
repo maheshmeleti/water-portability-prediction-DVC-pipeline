@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = ../UsersUMAAppDataLocalTempdvc1
+    url = C:\Users\UMA\AppData\Local\Temp\dvc1
