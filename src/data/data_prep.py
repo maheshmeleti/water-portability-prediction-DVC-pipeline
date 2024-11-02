@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import os
 
-
 def load_data(filepath : str) -> pd.DataFrame:
     try:
         return pd.read_csv(filepath)
