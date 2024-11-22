@@ -7,6 +7,7 @@ from dvclive import Live
 import yaml
 from sklearn.metrics import accuracy_score,precision_score,recall_score,f1_score
 import pdb
+import mlflow
 
 def load_data(filepath : str) -> pd.DataFrame:
     try:
